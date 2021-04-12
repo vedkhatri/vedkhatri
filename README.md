@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning different programming languages such as C++, Python, and even, Prolog
 - 📫 How to reach me:
       Email: dushyant.khatri.1995@gmail.com
-      Text: +44 759 653 6143
+      Phone: +44 759 653 6143
