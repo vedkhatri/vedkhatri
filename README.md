@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vedkhatri
+- 👋 Hi, I’m Dushyant Khatri (@vedkhatri)
 - 👀 I’m interested in Engineering, Sciences and Computing Technologies
 - 🌱 I’m currently learning different programming languages such as C++, Python, and even, Prolog
 - 📫 How to reach me:
